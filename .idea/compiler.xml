@@ -6,13 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="center.cyj" />
         <module name="Monitor" />
         <module name="mydemosboot" />
         <module name="sboot2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Monitor" target="1.8" />
+      <module name="center.cyj" target="1.8" />
+      <module name="Monitor" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

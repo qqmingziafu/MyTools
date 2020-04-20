@@ -5,6 +5,7 @@
       <list>
         <option value="$PROJECT_DIR$/../Monitor/pom.xml" />
         <option value="$PROJECT_DIR$/../JvmMonitor/pom.xml" />
+        <option value="$PROJECT_DIR$/../centercyj/pom.xml" />
       </list>
     </option>
   </component>
